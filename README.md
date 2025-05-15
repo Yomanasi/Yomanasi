@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manasi Jadhav</h1>
 <h3 align="center">Hi there! I'm Manasi, a dedicated and detail-oriented professional transitioning into the world of **DevOps and Cloud Engineering**. With a background in front-end development and a strong foundation in Linux, AWS, and CI/CD tools, I’m building a career focused on infrastructure automation, system reliability, and cloud-native technologies.</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-videos%2Ftechnology-animation&psig=AOvVaw2_zMMjqknA6iOTrgHXPtfI&ust=1747381207089000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDpvLf8pI0DFQAAAAAdAAAAABAE" alt="DevOps" width="100%" height="300px">
 
 
 - 🌱 I’m currently learning **diving deeper into Terraform, Jenkins, and Kubernetes**
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/manaasijadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manaasijadhav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manaasijadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manaasijadhav" height="30" width="40" /></a>
 <a href="https://instagram.com/mi_manasi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mi_manasi_" height="30" width="40" /></a>
 </p>
 
